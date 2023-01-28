@@ -1,0 +1,3 @@
+curl -H "Authorization: token %github.automation.api.token%" \
+https://raw.githubusercontent.com/guilleropswerks/python-app/main/Dockerfile Github Script raw URL \
+-o YOUR script name
